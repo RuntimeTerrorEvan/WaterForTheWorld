@@ -1,0 +1,155 @@
+body {
+
+	background-color: rgb(15, 51, 87);
+}
+
+
+h1 {
+	text-align: center;
+	font-size: 55px;
+	color:rgb(0, 115, 230);
+	font-family:'Architects Daughter', cursive;
+	border-style:ridge;
+	border-width: medium;
+	padding: 20px 20px 20px 20px;
+	margin: 20px 40px 20px 40px;
+	background-color:rgb(83,197,198);
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;}
+
+ .row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 45px;
+}
+
+
+p {
+	text-align: left;
+	font-size: 25px;
+	color: white;
+    font-family: 'Architects Daughter', cursive;
+	text-align:center;
+}
+
+h2 {
+    background-color:rgb(233,223,75);
+    font-family:'Architects Daughter', cursive;
+    font-size:25;
+    padding: 25px 25px;
+
+}
+
+.green {
+
+    background-color:rgb(83, 181, 76);
+    text-align:left;
+    color:black;
+    font-family:'Architects Daughter', cursive;
+    font-size:150%;
+    display: inline-block;
+    padding:25px 25px;
+}
+
+.orange {
+
+	background-color:rgb(230, 133, 56);
+	display:inline-block;
+	color:black;
+	font-family:'Architects Daughter', cursive;
+	font-size:150%;
+	padding:25px 25px;
+}
+
+.purple {
+
+	background-color:rgb(120, 107, 180);
+	display: inline-block; 
+	color:black;
+	font-family:'Architects Daughter', cursive;
+	font-size:150%;
+	padding:25px 25px;
+
+}
+
+.button {
+
+ 	border: none;
+  	color: white;
+  	padding: 15px 32px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 30px;
+  	margin: 4px 2px;
+  	cursor: pointer;
+  	font-family:'Architects Daughter', cursive;
+
+}
+
+label{
+
+font-family:'Architects Daughter', cursive;
+color:white;
+font-size: 25px
+
+
+}
+
+
+#Age {
+
+font-family:'Architects Daughter', cursive;
+color:black;
+
+}
+
+
+#Gender {
+
+font-family:'Architects Daughter', cursive;
+color:black;
+
+}
+
+#Email {
+
+font-family:'Architects Daughter', cursive;
+color:black;
+
+}
+
+#information {
+
+font-family:'Architects Daughter', cursive;
+color:black;
+
+}
+
+#useful {
+
+font-family:'Architects Daughter', cursive;
+color:black;
+
+
+}
+
+.hidden {
+	display:none;
+
+}
+
+#form-success {
+
+	display:Thank You!;
+}
+
+
+
